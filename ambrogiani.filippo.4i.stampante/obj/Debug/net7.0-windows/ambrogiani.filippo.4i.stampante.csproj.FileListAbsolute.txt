@@ -1,5 +1,0 @@
-C:\Users\studente.LAPTOP-HTLPIAEI\Desktop\ambrogiani.filippo.4i.stampante\obj\Debug\net7.0-windows\ambrogiani.filippo.4i.stampante.csproj.AssemblyReference.cache
-C:\Users\studente.LAPTOP-HTLPIAEI\Desktop\ambrogiani.filippo.4i.stampante\obj\Debug\net7.0-windows\MainWindow.g.cs
-C:\Users\studente.LAPTOP-HTLPIAEI\Desktop\ambrogiani.filippo.4i.stampante\obj\Debug\net7.0-windows\App.g.cs
-C:\Users\studente.LAPTOP-HTLPIAEI\Desktop\ambrogiani.filippo.4i.stampante\obj\Debug\net7.0-windows\ambrogiani.filippo.4i.stampante_MarkupCompile.cache
-C:\Users\studente.LAPTOP-HTLPIAEI\Desktop\ambrogiani.filippo.4i.stampante\obj\Debug\net7.0-windows\ambrogiani.filippo.4i.stampante_MarkupCompile.lref
